@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "67c7d6e5bc6108f8de898e97"
+  },
+  "name": "Producto1",
+  "stock": 3,
+  "text": "Este es el primer producto agregado.",
+  "status": true,
+  "price": 560.6,
+  "soldQuantity": 16,
+  "category": {
+    "$oid": "67c7d5cbbc6108f8de898e63"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7d6ecbc6108f8de898e9c"
+  },
+  "name": "Producto2",
+  "stock": 26,
+  "text": "Este es el Segundo producto agregado.",
+  "status": true,
+  "price": 660.6,
+  "soldQuantity": 15,
+  "category": {
+    "$oid": "67c7d5cbbc6108f8de898e63"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7ff6a53cc974a3371f606"
+  },
+  "name": "Producto3",
+  "stock": 79,
+  "text": "Este es el Tercer producto agregado.",
+  "status": true,
+  "price": 789.6,
+  "soldQuantity": 0,
+  "category": {
+    "$oid": "67c7d630bc6108f8de898e72"
+  }
+}]

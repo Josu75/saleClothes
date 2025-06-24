@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "67c7d5cbbc6108f8de898e5f"
+  },
+  "name": "Admin",
+  "surname": "User",
+  "username": "admin",
+  "email": "admin@example.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$7Nzy6BnunihJJW/up21Gtg$99A5wTKmqU1Y0xh1UYcVBqd+dI1ddjFVSYtI0XSOBuM",
+  "phone": "12345678",
+  "role": "ADMIN_ROLE",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T04:40:43.331Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T04:40:43.331Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7d606bc6108f8de898e67"
+  },
+  "name": "Josue",
+  "surname": "Garcia",
+  "username": "username1",
+  "email": "username1@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$FkSDeVicoHrtVk87DmWttA$4QoQh4icPouH2MrweYn0pSdFtcZfPupPf/Q0qQuszYQ",
+  "profilePicture": "Screenshot 2025-02-07 201943-1741149702748.png",
+  "phone": "52486947",
+  "role": "CLIENT_ROLE",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T04:41:42.829Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T04:41:42.829Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7d611bc6108f8de898e6b"
+  },
+  "name": "Josue2",
+  "surname": "Garcia2",
+  "username": "username2",
+  "email": "username2@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$0r1nPHFBe6RlwfYrK2ysNw$XvReCp7qtrtsD3kF1Wv4ym5qM+7+0zG5QY1LPk5pFHc",
+  "profilePicture": "Screenshot 2025-02-07 201943-1741149713033.png",
+  "phone": "52486947",
+  "role": "CLIENT_ROLE",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T04:41:53.128Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T04:41:53.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7fa607a969eccbd2e775e"
+  },
+  "name": "Sofia",
+  "surname": "Hernandez",
+  "username": "shernandez",
+  "email": "sofia@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$a/EfqOYiK9DFvbNbvRnKmA$OhUfXxZlINsFMKd1V/sRuf8KIwGrZaQETkDjdmzAFPA",
+  "profilePicture": "Screenshot 2025-02-07 201943-1741159008399.png",
+  "phone": "52486947",
+  "role": "CLIENT_ROLE",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T07:16:48.507Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T07:16:48.507Z"
+  }
+}]

@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "67c7d5cbbc6108f8de898e63"
+  },
+  "name": "CATEGORY_DEFAULT",
+  "description": "Esta es una categoria predeterminada.",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T04:40:43.339Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T04:40:43.339Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7d630bc6108f8de898e72"
+  },
+  "name": "Categoria1",
+  "description": "descriptioncategoria",
+  "status": false,
+  "createdAt": {
+    "$date": "2025-03-05T04:42:24.439Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T04:50:06.781Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7d640bc6108f8de898e78"
+  },
+  "name": "Categoria2",
+  "description": "descriptioncategoria2",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T04:42:40.551Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T04:42:40.551Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7d646bc6108f8de898e7c"
+  },
+  "name": "Categoria3",
+  "description": "descriptioncategoria3",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T04:42:46.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T04:42:46.284Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7d64bbc6108f8de898e80"
+  },
+  "name": "CategoriaEditada",
+  "description": "DescripcionEditada",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T04:42:51.794Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T04:44:22.234Z"
+  }
+}]
